@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+data/
+models/
+*.zip
+*.csv
+*.pt
+*.safetensors
+.env
+reports/errors*.csv
